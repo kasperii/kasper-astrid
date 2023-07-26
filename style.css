@@ -1,1 +1,37 @@
-body{background-color:#ecebe2}.space.svelte-tagtmh{height:3em}h1.svelte-tagtmh{font-family:nunito,roboto,proxima-nova,"proxima nova",sans-serif;color:#111111;text-transform:uppercase;font-size:1em;font-weight:700;letter-spacing:1em;padding:1em;text-align:center;color:royalblue}p.svelte-tagtmh{font-family:nunito,roboto,proxima-nova,"proxima nova",sans-serif;color:#111111;text-transform:uppercase;font-size:.5em;font-weight:700;letter-spacing:1em;padding:1em;text-align:center}img.svelte-tagtmh{display:block;margin:0 auto}
+	main {
+		text-align: center;
+		padding: 1em;
+		margin: 0 auto;
+        background-color: #ecebe2;
+	}
+
+    .space {
+        height: 3em;
+    }
+	h1 {
+		font-family:nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+		color: #111111;
+		text-transform: uppercase;
+		font-size: 1em;
+		font-weight: 700;
+		letter-spacing: 1em;
+		padding: 1em;
+        text-align: center;
+        color: royalblue;
+	}
+
+	p {
+		font-family:nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+		color: #111111;
+		text-transform: uppercase;
+		font-size: .5em;
+		font-weight: 700;
+		letter-spacing: 1em;
+		padding: 1em;
+        text-align: center;
+	}
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+
